@@ -7,13 +7,13 @@ Most of my day-to-day work lives in private company repos, so here's a quick pic
 - **Multi-tenant SaaS**: designed a database-per-tenant e-commerce platform where every vendor's data stays isolated.
 - **Integrations**: payment gateways, shipping carriers, and ZATCA-compliant e-invoicing for the Saudi market.
 - **Admin tooling**: vendor and admin dashboards with Filament.
-- **Delivery**: Dockerized environments and CI/CD with Azure Pipelines.
+- **Delivery**: Dockerized environments, CI/CD with Azure Pipelines, and deploying and running projects on AWS.
 
 ### Stack
 
 **Backend:** PHP · Laravel · Filament · REST APIs · MySQL
 
-**DevOps:** Docker · Azure Pipelines · Linux · Nginx · Git
+**Cloud & DevOps:** AWS · Docker · Azure Pipelines · Linux · Nginx · Git
 
 **Frontend:** Vue.js · Inertia.js · Angular · TypeScript
 
